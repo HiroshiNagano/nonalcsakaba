@@ -1,14 +1,19 @@
 body, html {
-  height: 100%;
-  background-color: white;
+  width: auto;
+  background-color: black;
   margin:0px;
 }
 
 h1{
   line-height: 1.8;
+      color: white;
 }
 
 h3{
   line-height: 2.5;
+      color: white;
 }
 
+p{
+      color: white;
+}

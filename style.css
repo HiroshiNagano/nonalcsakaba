@@ -3,3 +3,12 @@ body, html {
   background-color: white;
   margin:0px;
 }
+
+h1{
+  line-height: 1.8;
+}
+
+h3{
+  line-height: 2.5;
+}
+

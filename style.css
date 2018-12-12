@@ -1,7 +1,6 @@
 body, html {
-  width: auto;
   background-color: white;
-  margin:0px;
+
 }
 
 h1{
@@ -15,11 +14,14 @@ h3{
 }
 
 p{
- 
+  line-height: 2.5;
 }
 
 .top {
+  margin:0px;
+  padding:0px;
   width: auto;
+  
 }
 
 .copy {
@@ -27,7 +29,9 @@ p{
 }
 
 .menu {
-  width: auto;  
+  margin:0px;
+  padding:0px;
+  width: auto;
 }
 
 .map {
@@ -36,4 +40,8 @@ p{
 
 .footer {
    width: auto; 
+}
+
+div{
+    line-height: 0;
 }

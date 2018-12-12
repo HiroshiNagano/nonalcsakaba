@@ -1,19 +1,39 @@
 body, html {
   width: auto;
-  background-color: black;
+  background-color: white;
   margin:0px;
 }
 
 h1{
   line-height: 1.8;
-      color: white;
+
 }
 
 h3{
   line-height: 2.5;
-      color: white;
+
 }
 
 p{
-      color: white;
+ 
+}
+
+.top {
+  width: auto;
+}
+
+.copy {
+  width: auto;
+}
+
+.menu {
+  width: auto;  
+}
+
+.map {
+  width: auto;  
+}
+
+.footer {
+   width: auto; 
 }
